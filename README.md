@@ -1,22 +1,17 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+This Android application is meant to help people calculate the number of calories they burned and also compare with other exercises to help them make better fitness decisions.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Vignesh Muruganantham ([muruvig@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [Crunch Time Demo] (https://youtu.be/dKG8ut00i4c)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+<img src="screenshots/home.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/normal conversion.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/goal conversion.jpg" height="400" alt="Screenshot"/>
